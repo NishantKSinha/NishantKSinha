@@ -1,15 +1,16 @@
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Nishant Kumar Sinha</h1>
-<h3 align="center">A passionate full stack devloper and coder from India</h3>
+<h3 align="center">A passionate Full-Stack devloper and coder from India</h3>
+<img align = "right" alt = "Coding" width = "430" height="340" src ="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantksinha&label=Profile%20views&color=0e75b6&style=flat" alt="nishantksinha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantksinha" alt="nishantksinha" /></a> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **React App Project**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React,C++**
+- 💬 Ask me about **Frontend,MERN,C++**
 
 - 📫 How to reach me **nishantsinha233@gmail.com**
 
@@ -32,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantksinha&show_icons=true&locale=en" alt="nishantksinha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksinha&" alt="nishantksinha" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantksinha" alt="nishantksinha" /></a> </p>
