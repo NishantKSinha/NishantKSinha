@@ -1,17 +1,15 @@
-![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <h1 align="center">Hi 👋, I'm Nishant Kumar Sinha</h1>
-<h3 align="center">A passionate Full-Stack developer and coder from India</h3>
-<img align = "right" alt = "Coding" width = "430" height="340" src ="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<h3 align="center">A passionate full stack devloper and coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantksinha&label=Profile%20views&color=0e75b6&style=flat" alt="nishantksinha" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantksinha" alt="nishantksinha" /></a> </p>
 
-
-- 🔭 I’m currently working on **React App Project**
+- 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Frontend,MERN,C++**
+- 💬 Ask me about **React,C++**
 
 - 📫 How to reach me **nishantsinha233@gmail.com**
 
@@ -21,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishant-kumar-sinha-ba41b3278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-kumar-sinha-ba41b3278/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/nishantkumarsinha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/nishantkumarsinha/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/nishants1o67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nishants1o67/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishant-kumar-sinha-ba41b3278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-kumar-sinha-ba41b3278" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nishantkumarsinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishantkumarsinha" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/<nishants1o67>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<nishants1o67>/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantksinha&show_icons=true&locale=en" alt="nishantksinha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksinha&" alt="nishantksinha" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantksinha" alt="nishantksinha" /></a> </p>
