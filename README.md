@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Frontend,MERN,C++**
+  
+- 📄 Know about my experiences: https://drive.google.com/file/d/1ER4qOMumUuSR-BplY9oC5kYUOml_NLSr/view?usp=drive_link
 
 - 📫 How to reach me **nishantsinha233@gmail.com**
 
