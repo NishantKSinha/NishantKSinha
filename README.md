@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **nishantsinha233@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14Tax6PTrs3VeTK33majHHFiGt1bjQGyN](https://drive.google.com/drive/folders/14Tax6PTrs3VeTK33majHHFiGt1bjQGyN)
-
 - ⚡ Fun fact **I am a Tech Enthusiast**
 
 <h3 align="left">Connect with me:</h3>
